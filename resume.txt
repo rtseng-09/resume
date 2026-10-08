@@ -1,0 +1,20 @@
+
+OBJECTIVE
+Entry-level software developer seeking a role where I can learn and contribute.
+
+EDUCATION
+B.S. in Computer Science, Your University, 2026
+
+SKILLS
+Python, Git, SQL, problem solving, teamwork
+EO
+cat > resume.txt << 'EOF'
+
+OBJECTIVE
+Entry-level software developer seeking a role where I can learn and contribute.
+
+EDUCATION
+B.S. in Computer Science, Your University, 2026
+
+SKILLS
+Python, Git, SQL, problem solving, teamwork
